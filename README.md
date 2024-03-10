@@ -19,6 +19,9 @@
 | :white_square_button: | MX Switch mount          |            |            |                   |                        |          |
 | :white_square_button: | SSD_FRAME                |            |            |                   |                        |          |
 
+\* _Weights measured_
+\*\* _Filament used according to Klipper_
+
 # Print settings
 
 - 20% cubic infill
