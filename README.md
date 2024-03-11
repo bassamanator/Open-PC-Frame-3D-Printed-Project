@@ -18,10 +18,10 @@
 | :white_check_mark:    | Bottom_bar               | 127 g  | 2h 48m     | 49.67 meters  | 0.2mm gap brim         | PLA+     | A      |
 | :white_check_mark:    | Middle_Bar               | 129 g  | 2h 58m     | 52.81 meters  |                        | PLA+     | A      |
 | :white_check_mark:    | Top_bar                  | 132 g  | 2h 51m     | 52.58 meters  |                        | PLA+     | A      |
-| :hourglass:           | Top_Left                 |        |            |               | Printed with twin      | PLA+     | B      |
-| :hourglass:           | Top_Right                |        |            |               | Printed with twin      | PLA+     | B      |
-| :white_square_button: | Bottom_Right_PSU_Mount   |        |            |               |                        |          |        |
+| :white_check_mark:    | Top_Left                 | 31 g   | 2h 17m     | 23.53 meters  | Printed together. Grid | PLA+     | B      |
+| :white_check_mark:    | Top_Right                | 31 g   | \*         | \*            | supports not great.    | PLA+     | B      |
 | :white_square_button: | Bottom_Left_V2_PSU_Mount |        |            |               |                        |          |        |
+| :white_square_button: | Bottom_Right_PSU_Mount   |        |            |               |                        |          |        |
 | :white_square_button: | MX Switch mount          |        |            |               |                        |          |        |
 | :white_square_button: | SSD_FRAME                |        |            |               |                        |          |        |
 
