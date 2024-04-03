@@ -21,7 +21,7 @@
 | :white_check_mark:    | Top_Left                 | 31 g   | 2h 17m     | 23.53 meters  | Printed together. Grid | PLA+     | B      |
 | :white_check_mark:    | Top_Right                | 31 g   | \*         | \*            | supports not great.    | PLA+     | B      |
 | :white_check_mark:    | Bottom_Left_V2_PSU_Mount | 124    | 3h 19m     | 46.69 meters  |                        | PLA+     | A      |
-| :white_check_mark:    | Bottom_Right_PSU_Mount   |        | 3h 19m     | 46.67         | Mirrored counterpart   | PLA+     | A      |
+| :white_check_mark:    | \*Bottom_Right_PSU_Mount |        | 3h 19m     | 46.67         | \*Mirrored counterpart | PLA+     | A      |
 | :white_square_button: | MX Switch mount          |        |            |               |                        |          |        |
 | :white_square_button: | SSD_FRAME                |        |            |               |                        |          |        |
 
